@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="850" viewBox="0 0 1160 850">
+<rect width="1160" height="850" fill="#FFFFFF"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#2F3438">
+<text x="40" y="42" font-size="24" font-weight="600">Original color grammar: roles before decoration</text>
+<text x="40" y="69" font-size="14">Design examples only. Not source-paper RGB, experimental data, or accessibility certification.</text>
+<text x="40" y="112" font-size="18" font-weight="600">Two samples: stable identity + redundant markers</text>
+<path d="M45 142 H208" stroke="#24526B" stroke-width="3" stroke-dasharray=""/>
+<circle cx="126" cy="142" r="6" fill="#FFFFFF" stroke="#24526B" stroke-width="2"/>
+<text x="45" y="178" font-size="13">baseline</text><text x="45" y="198" font-size="13">#24526B</text>
+<path d="M258 142 H421" stroke="#B85940" stroke-width="3" stroke-dasharray="9 5"/>
+<polygon points="333,136 345,136 345,148 333,148" fill="#B85940" stroke="#B85940" stroke-width="2"/>
+<text x="258" y="178" font-size="13">modified</text><text x="258" y="198" font-size="13">#B85940</text>
+<path d="M471 142 H634" stroke="#737A80" stroke-width="3" stroke-dasharray="2 5"/>
+<polygon points="552,135 559,148 545,148" fill="#FFFFFF" stroke="#737A80" stroke-width="2"/>
+<text x="471" y="178" font-size="13">external_reference_not_main_sample</text><text x="471" y="198" font-size="13">#737A80</text>
+<text x="40" y="251" font-size="18" font-weight="600">Four controls: fixed order, no implied performance rank</text>
+<path d="M45 281 H208" stroke="#3B454F" stroke-width="3" stroke-dasharray=""/>
+<circle cx="126" cy="281" r="6" fill="#FFFFFF" stroke="#3B454F" stroke-width="2"/>
+<text x="45" y="317" font-size="13">baseline</text><text x="45" y="337" font-size="13">#3B454F</text>
+<path d="M258 281 H421" stroke="#246C8B" stroke-width="3" stroke-dasharray="9 5"/>
+<polygon points="339,274 346,287 332,287" fill="#246C8B" stroke="#246C8B" stroke-width="2"/>
+<text x="258" y="317" font-size="13">A_only</text><text x="258" y="337" font-size="13">#246C8B</text>
+<path d="M471 281 H634" stroke="#55764A" stroke-width="3" stroke-dasharray="2 5"/>
+<polygon points="552,273 559,281 552,289 545,281" fill="#FFFFFF" stroke="#55764A" stroke-width="2"/>
+<text x="471" y="317" font-size="13">B_only</text><text x="471" y="337" font-size="13">#55764A</text>
+<path d="M684 281 H847" stroke="#A64E64" stroke-width="3" stroke-dasharray="9 4 2 4"/>
+<polygon points="759,275 771,275 771,287 759,287" fill="#A64E64" stroke="#A64E64" stroke-width="2"/>
+<text x="684" y="317" font-size="13">A_plus_B</text><text x="684" y="337" font-size="13">#A64E64</text>
+<text x="40" y="390" font-size="18" font-weight="600">Ordered states: explicit state ID + charge/discharge branch</text>
+<path d="M45 420 H208" stroke="#6E93AC" stroke-width="3" stroke-dasharray=""/>
+<circle cx="126" cy="420" r="6" fill="#6E93AC" stroke="#6E93AC" stroke-width="2"/>
+<text x="45" y="456" font-size="13">S0</text><text x="45" y="476" font-size="13">#6E93AC</text>
+<path d="M258 420 H421" stroke="#527D9A" stroke-width="3" stroke-dasharray=""/>
+<polygon points="339,413 346,426 332,426" fill="#527D9A" stroke="#527D9A" stroke-width="2"/>
+<text x="258" y="456" font-size="13">S1</text><text x="258" y="476" font-size="13">#527D9A</text>
+<path d="M471 420 H634" stroke="#376581" stroke-width="3" stroke-dasharray=""/>
+<polygon points="546,414 558,414 558,426 546,426" fill="#376581" stroke="#376581" stroke-width="2"/>
+<text x="471" y="456" font-size="13">S2</text><text x="471" y="476" font-size="13">#376581</text>
+<path d="M684 420 H847" stroke="#214D67" stroke-width="3" stroke-dasharray=""/>
+<polygon points="765,412 772,420 765,428 758,420" fill="#214D67" stroke="#214D67" stroke-width="2"/>
+<text x="684" y="456" font-size="13">S3</text><text x="684" y="476" font-size="13">#214D67</text>
+<path d="M897 420 H1060" stroke="#12384F" stroke-width="3" stroke-dasharray=""/>
+<polygon points="978,412 986,418 983,427 973,427 970,418" fill="#12384F" stroke="#12384F" stroke-width="2"/>
+<text x="897" y="456" font-size="13">S4</text><text x="897" y="476" font-size="13">#12384F</text>
+<text x="40" y="529" font-size="18" font-weight="600">Nonnegative quantity: shared range, units and normalization</text>
+<rect x="45" y="545" width="180" height="29" fill="#EAF3F8" stroke="#CBD1D6"/>
+<text x="45" y="595" font-size="13">0</text><text x="45" y="615" font-size="13">#EAF3F8</text>
+<rect x="258" y="545" width="180" height="29" fill="#ADCFE1" stroke="#CBD1D6"/>
+<text x="258" y="595" font-size="13">0.25</text><text x="258" y="615" font-size="13">#ADCFE1</text>
+<rect x="471" y="545" width="180" height="29" fill="#6FA6C3" stroke="#CBD1D6"/>
+<text x="471" y="595" font-size="13">0.5</text><text x="471" y="615" font-size="13">#6FA6C3</text>
+<rect x="684" y="545" width="180" height="29" fill="#377792" stroke="#CBD1D6"/>
+<text x="684" y="595" font-size="13">0.75</text><text x="684" y="615" font-size="13">#377792</text>
+<rect x="897" y="545" width="180" height="29" fill="#17485F" stroke="#CBD1D6"/>
+<text x="897" y="595" font-size="13">1</text><text x="897" y="615" font-size="13">#17485F</text>
+<text x="40" y="668" font-size="18" font-weight="600">Signed difference: fixed physical zero; missing values separate</text>
+<rect x="45" y="684" width="180" height="29" fill="#32677D" stroke="#CBD1D6"/>
+<text x="45" y="734" font-size="13">-1</text><text x="45" y="754" font-size="13">#32677D</text>
+<rect x="258" y="684" width="180" height="29" fill="#97C0CD" stroke="#CBD1D6"/>
+<text x="258" y="734" font-size="13">-0.5</text><text x="258" y="754" font-size="13">#97C0CD</text>
+<rect x="471" y="684" width="180" height="29" fill="#F7F7F5" stroke="#CBD1D6"/>
+<text x="471" y="734" font-size="13">0</text><text x="471" y="754" font-size="13">#F7F7F5</text>
+<rect x="684" y="684" width="180" height="29" fill="#DCA66B" stroke="#CBD1D6"/>
+<text x="684" y="734" font-size="13">0.5</text><text x="684" y="754" font-size="13">#DCA66B</text>
+<rect x="897" y="684" width="180" height="29" fill="#A55725" stroke="#CBD1D6"/>
+<text x="897" y="734" font-size="13">1</text><text x="897" y="754" font-size="13">#A55725</text>
+<text x="40" y="823" font-size="13">Use real data for final-size QA. State colors are not sample colors; light map stops are not text colors.</text>
+</g></svg>
