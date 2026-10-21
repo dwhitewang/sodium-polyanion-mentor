@@ -1,0 +1,6 @@
+interface:
+  display_name: "钠离子聚阴离子正极科研导师"
+  short_description: "集成文献检索与阅读、创新构思、实验检测、论文逻辑、组图及配色指导"
+  default_prompt: "请用 $sodium-polyanion-mentor 根据我的现有证据，提出最值得验证的创新主线、检测搭配和论文组图方案。"
+policy:
+  allow_implicit_invocation: true
