@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+polyanion-mentor-test-*/
+Thumbs.db
+.DS_Store
