@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "logic": {"paper_examples_default": false, "references_for_pure_organization": false, "references_permitted_when_useful": true, "evidence_dependent_judgments_require_matched_doi": true},
+  "innovation": {"evidence_dependent_recommendations_require_matched_doi": true, "state_exact_support_scope": true},
+  "figures": {"paper_examples_default": false, "references_for_pure_layout": false, "allow_examples_when_requested": true, "scientific_claims_require_matched_doi_if_literature_dependent": true},
+  "theory_fallback": {"allowed": true, "label_no_direct_literature_support": true, "assumptions_and_limits_required": true, "absence_in_library_is_not_absence_in_field": true, "invented_or_forced_doi": false},
+  "colors": {"references_permitted": true, "historical_or_newly_inspected_sources_permitted": true, "exact_author_hex_requires_verified_source_values": true, "copyright_paper_images": false},
+  "search": {"traceable_paper_identity_expected": true, "plan_is_executed_search": false},
+  "reading": {"identify_requested_paper": true, "caption_is_visual_inspection": false},
+  "internal_provenance_retained": true,
+  "provide_paper_full_text": false,
+  "resume_paused_reading_goal_automatically": false
+}
