@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "fictional_example": true,
+  "conditions": [
+    {"id":"c0","sample":"baseline","soc":"S2 charge, same Na extraction","cycle":1,"temperature_c":25,"voltage_window":"matched window","mass_basis":"composite powder"},
+    {"id":"c1","sample":"modified","soc":"S2 charge, same Na extraction","cycle":1,"temperature_c":25,"voltage_window":"matched window","mass_basis":"composite powder"}
+  ],
+  "evidence": [
+    {"id":"e0","method":"operando XRD","origin_id":"run-0","condition_id":"c0","inspection":"raw"},
+    {"id":"e1","method":"operando XRD","origin_id":"run-1","condition_id":"c1","inspection":"raw"}
+  ],
+  "claims": [{"id":"q1","text":"A matched-state comparison is planned; no experimental result is asserted.","kind":"hypothesis","evidence_ids":["e0","e1"],"controls":["matched Na extraction"],"alternatives":["different accessible reaction depth"]}],
+  "figures": [{"id":"F1","question":"How should the two states be compared?","claim_ids":["q1"],"panels":[
+    {"id":"F1a","evidence_ids":["e0"],"condition_id":"c0","color_role":"baseline","hex":"#24526B"},
+    {"id":"F1b","evidence_ids":["e1"],"condition_id":"c1","color_role":"modified","hex":"#B85940"}
+  ]}],
+  "comparisons":[{"id":"cmp1","panel_ids":["F1a","F1b"],"purpose":"same_state","intentional_differences":["sample"]}],
+  "palette":{"source_type":"original_proposal","exact_author_colors":false,"kind":"categorical","roles":{"baseline":"#24526B","modified":"#B85940"}}
+}
