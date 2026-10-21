@@ -1,0 +1,3367 @@
+{
+  "schema_version": 1,
+  "historical_count": 159,
+  "evidence": "Historical public-literature reading records, not current publisher verification. Identity count is not final five-year eligibility.",
+  "quarantine_ids": [
+    "B22",
+    "B32"
+  ],
+  "outside_count_boundary_doi": "10.1038/s41467-022-31768-5",
+  "records": [
+    {
+      "id": "W01",
+      "doi": "10.1002/smll.202302609",
+      "title": "High‐Entropy Doping Boosts Ion/Electronic Transport of Na 4 Fe 3 (PO 4 ) 2 (P 2 O 7 )/C Cathode for Superior Performance Sodium‐Ion Batteries",
+      "journal": "Small",
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W02",
+      "doi": "10.1002/smll.202308681",
+      "title": "Achieving Fast and Stable Sodium Storage in Na 4 Fe 3 (PO 4 ) 2 (P 2 O 7 ) via Entropy Engineering",
+      "journal": "Small",
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W03",
+      "doi": "10.1002/smtd.202301745",
+      "title": "Entropy‐Enhanced Multi‐Doping Strategy to Promote the Electrochemical Performance of Na 4 Fe 3 (PO 4 ) 2 P 2 O 7",
+      "journal": "Small Methods",
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W04",
+      "doi": "10.1002/adfm.202309701",
+      "title": "Optimizing the Electron Spin States of Na4Fe3(PO4)2P2O7 Cathodes via Mn/F Dual‐Doping for Enhanced Sodium Storage",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读早期_W04_202309701.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W05",
+      "doi": "10.1002/batt.202400438",
+      "title": "Phase Regulation Promotes High Rate‐Long Term Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 Cathode for Sodium‐Ion Batteries",
+      "journal": "Batteries & Supercaps",
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W06",
+      "doi": "10.1002/smtd.202400642",
+      "title": "Understanding the Role of Mn Substitution for Boosting High‐Voltage Na4Fe3‐xMnx(PO4)2P2O7 Cathode in Sodium‐Ion Batteries",
+      "journal": "Small Methods",
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W07",
+      "doi": "10.1002/aenm.202404965",
+      "title": "Synergistic Configurational Entropy and Iron Vacancy Engineering in Na4Fe3(PO4)2P2O7 Cathode for High-Power-Density and Ultralong-Life Na-Ion Full Batteries",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读早期_W07_202404965.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W08",
+      "doi": "10.1002/anie.202410590",
+      "title": "Hollow Core‐Shelled Na 4 Fe 2.4 Ni 0.6 (PO 4 ) 2 P 2 O 7 with Tiny‐Void Space Capable Fast‐Charge and Low‐Temperature Sodium Storage",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W09",
+      "doi": "10.1002/smll.202410715",
+      "title": "Vacancy and Low‐Energy 3p‐Orbital Endow Na4Fe3(PO4)2(P2O7) Cathode with Superior Sodium Storage Kinetics",
+      "journal": "Small",
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W10",
+      "doi": "10.1002/anie.202502693",
+      "title": "High Entropy Boosts the Low Temperature Na + ‐Storage Performance of Na 4 Fe 3 (PO 4 ) 2 P 2 O 7",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W11",
+      "doi": "10.1002/smtd.202500994",
+      "title": "Continuous‐Flow Synthesis of Nanostructured Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 Cathode With Superior Rate Capability for Fast‐Charging Sodium‐Ion Batteries",
+      "journal": "Small Methods",
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W12",
+      "doi": "10.1002/elt2.70004",
+      "title": "Surface Mn‐Enriched Doping Increasing Local Electron Concentration of Na4Fe3(PO4)2P2O7 Cathodes for Enhanced Sodium Storage",
+      "journal": "Electron",
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W13",
+      "doi": "10.1002/smll.202502749",
+      "title": "High‐Entropy Engineering of 1D Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 : Unlocking Exceptional Capacity and Ultrahigh Rate Capability for Sodium‐Ion Battery Cathodes",
+      "journal": "Small",
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W14",
+      "doi": "10.1002/anie.202507573",
+      "title": "Ionic Polarization‐Driven Defect Engineering in Na 4 Fe 3 (PO 4 ) 2 (P 2 O 7 ) Cathode: Fast Charging and Ultra‐Long Cycle Life of Sodium‐Ion Batteries",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W15",
+      "doi": "10.1002/anie.202525531",
+      "title": "Accelerating Electrochemical Kinetics in Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 Cathodes Through Oxygen Vacancy Modulation for Wide‐Temperature Ah‐Level Sodium‐Ion Batteries",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W16",
+      "doi": "10.1002/smll.202511474",
+      "title": null,
+      "journal": null,
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W17",
+      "doi": "10.1002/adfm.202531892",
+      "title": "Nb‐Doping‐Derived Fe Vacancy Boosting Reversible Reaction Kinetics of Na4Fe3(PO4)2P2O7 Cathode for Enhanced Sodium Storage",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读早期_W17_202531892.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W18",
+      "doi": "10.1002/adma.73081",
+      "title": "Active Sodium Occupancy Ratio‐A Guiding Descriptor for Predicting Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 Sodium Storage Performance",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W19",
+      "doi": "10.1002/smll.202510368",
+      "title": "Precursor‐Free Synthesis of Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 Cathode Directly from Metallic Iron for Sodium‐Ion Batteries",
+      "journal": "Small",
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W20",
+      "doi": "10.1002/adfm.76750",
+      "title": "Breaking Rate-Limit of Na4Fe3(PO4)2P2O7 by Quasi-ALD Derived Ultra-Low Carbon Coating in High-Rate Sodium-Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读早期_W20_76750.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W21",
+      "doi": "10.1002/adfm.76558",
+      "title": "High-Throughput Calculation Identifying Boron and Tin Dopants for Optimizing Na4Fe3(PO4)2P2O7 Cathode",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读早期_W21_76558.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W22",
+      "doi": "10.1002/aesr.70231",
+      "title": null,
+      "journal": "Advanced Energy and Sustainability Research",
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "excluded_historical_record",
+      "eligibility_certified": false,
+      "transfer": "background_only_not_qualifying_corpus",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W23",
+      "doi": "10.1002/sstr.70509",
+      "title": null,
+      "journal": null,
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W24",
+      "doi": "10.1002/smtd.202100372",
+      "title": "A Green and Scalable Synthesis of Na3Fe2(PO4)P2O7/rGO Cathode for High‐Rate and Long‐Life Sodium‐Ion Batteries",
+      "journal": "Small Methods",
+      "reading": {
+        "main_text": "recorded_read_legacy_depth_unverified",
+        "captions": "unknown",
+        "images": "unknown",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W29",
+      "doi": "10.1002/anie.202423296",
+      "title": "Spherical Mg/Cu Co-Doped Na4Fe3(PO4)2P2O7 Cathode Materials with Mitigated Diffusion-Induced Stresses and Enhanced Cyclic Stability",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W30",
+      "doi": "10.1002/adfm.202412730",
+      "title": "High Entropy Helps Na4Fe3(PO4)2P2O7 Improve Its Sodium Storage Performance",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W31",
+      "doi": "10.1002/anie.202422732",
+      "title": "Photogenerated Holes Induced Deep Sodium Storage of TiO 2 /CdSe/NFPP Cathode for High‐Efficiency Photorechargeable Sodium Batteries",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W32",
+      "doi": "10.1002/adfm.202505185",
+      "title": "Zirconium Modification Induced Small-Polaron Breakdown in Na4Fe3(PO4)2P2O7 as Superior Cathode in Sodium-Ion Battery",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W34",
+      "doi": "10.1002/adfm.202509628",
+      "title": "Medium-Entropy Doping in Na4Fe3(PO4)2P2O7 Cathode via Mg/Cu/Cr Triple Doping: Site-Specific Optimization Unlocks High Conductivity and Ultralong Cyclability",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读扩展_W34_202509628.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W36",
+      "doi": "10.1002/adfm.202518331",
+      "title": "Unlocking Coupled of Electron/Ion Transport for Superior Electrochemical Performance in Hybrid Phosphate Cathodes of Sodium Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读扩展_W36_202518331.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W37",
+      "doi": "10.1002/adfm.202511174",
+      "title": "Air Stability and Na Site Activation of NASICON-Based NFPP/NVOPF/C Heterostructured Cathode via Surface Reconstruction",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读额外_W37_202511174.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W38",
+      "doi": "10.1002/aenm.202504854",
+      "title": "Dual Regulation of Stability and Kinetics in Iron-Based Mixed Phosphate Cathode for All-Climate Sodium-Ion Batteries",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读扩展_W38_202504854.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W39",
+      "doi": "10.1002/anie.202514523",
+      "title": "Valence‐Modulated Na 4 Fe 3 (PO 4 ) 2 (P 2 O 7 ) Cathode Tuned by Orbital‐Delocalization for Extreme‐Temperature Sodium Storage",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W40",
+      "doi": "10.1002/adfm.202520871",
+      "title": "Doping-Induced Ultrafast Kinetics of Na4Fe3(PO4)2P2O7 Cathode Enabling Wide Temperature Sodium-Ion Battery",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读扩展_W40_202520871.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W43",
+      "doi": "10.1002/adma.73107",
+      "title": "Plasma‐Tailored Bulk‐Interface‐Surface Trinity Engineering of Iron‐Based Mixed Phosphate Cathodes for Advanced Sodium Ion Batteries",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W44",
+      "doi": "10.1002/adfm.75792",
+      "title": "Breaking “Fe3+ Trap” to Reconstruct Electron/Ion Transport Networks in Na4Fe3(PO4)2P2O7 for High-Performance Sodium-Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读扩展_W44_75792.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W45",
+      "doi": "10.1002/adfm.76999",
+      "title": "Tailoring Local Electronic Configuration of Na4Fe3(PO4)2P2O7 Cathode via Reductive Coupling Mechanism toward Ultra-Wide Temperature Sodium-Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读扩展_W45_76999.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W47",
+      "doi": "10.1002/adma.74727",
+      "title": "Oxygen-Vacancy Engineering of Na4Fe3(PO4)2P2O7 Enables Fast and Wide-Temperature Sodium Storage",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W48",
+      "doi": "10.1002/anie.3720311",
+      "title": "Na–Fe–P Stoichiometry-Driven Heterostructure Design With a P2O7-Rich Buffering Phase for Stable NASICON-Type Sodium-Ion Cathodes",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W49",
+      "doi": "10.1002/anie.202316957",
+      "title": "Insights into the Phase Purity and Storage Mechanism of Nonstoichiometric Na3.4Fe2.4(PO4)1.4P2O7 Cathode for High-Mass-Loading and High-Power-Density Sodium-Ion Batteries",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W50",
+      "doi": "10.1002/adma.202408918",
+      "title": "Heterogeneous NASICON-Type Cathode With Reversible Multielectron Reaction for High-Performance Sodium-Ion Batteries",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "W51",
+      "doi": "10.1002/adfm.202500290",
+      "title": "Inner/Interface Engineered Iron/Manganese-Based Mixed Phosphate Cathode with High Energy Density and Ultra-Long Cycle Life for Sodium-Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读额外_W51_202500290.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "N02",
+      "doi": "10.1038/s41467-019-09170-5",
+      "title": "NASICON-type air-stable and all-climate cathode for sodium-ion batteries with low cost and high-power density",
+      "journal": "Nature Communications 10",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "excluded_historical_record",
+      "eligibility_certified": false,
+      "transfer": "background_only_not_qualifying_corpus",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "NE01",
+      "doi": "10.1016/j.nanoen.2023.108640",
+      "title": "Alkali metal ion induced lattice regulation for all climate NASICON-type cathode with superior Na-storage performance",
+      "journal": "Nano Energy 114",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读扩展_NE01_108640.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "N03",
+      "doi": "10.1038/s41467-026-74282-8",
+      "title": "Reducing P-O bond covalency in polyanionic groups to increase the intrinsic electronic conductivity in sodium positive electrodes",
+      "journal": "Nature Communications",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "AM-HE",
+      "doi": "10.1002/adma.202418219",
+      "title": "Ultrafast Preparation of High-Entropy NASICON Cathode Enables Stabilized Multielectron Redox and Wide-Temperature (−50–60 °C) Workability in Sodium-Ion Batteries",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "NML02073",
+      "doi": "10.1007/s40820-026-02073-3",
+      "title": "Tailoring eg Orbital Occupancy of Fe in Ni-Doped Na4.3Fe3(PO4)2P2O7 Cathode for High-Performance Sodium-Ion Batteries",
+      "journal": "Nano-Micro Letters",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "excluded_historical_record",
+      "eligibility_certified": false,
+      "transfer": "background_only_not_qualifying_corpus",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "AdvSci",
+      "doi": "10.1002/advs.202522907",
+      "title": "AlF3 Mediated In-Situ Cathode Interface Stabilization Enables High-Rate and Long-Life Na-Ion Batteries at Elevated Temperature",
+      "journal": "Advanced Science",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "journal_or_date_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "NML01881",
+      "doi": "10.1007/s40820-025-01881-3",
+      "title": "Iron–Manganese Dual-Doping Tailors the Electronic Structure of Na3V2(PO4)2F3 for High-Performance Sodium-Ion Batteries",
+      "journal": "Nano-Micro Letters",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "excluded_historical_record",
+      "eligibility_certified": false,
+      "transfer": "background_only_not_qualifying_corpus",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "NSR",
+      "doi": "10.1093/nsr/nwaf321",
+      "title": "Dual-loop upcycling of spent LiFePO4: defect inheritance enables durable and fast-charging sodium-ion batteries",
+      "journal": "National Science Review",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "excluded_historical_record",
+      "eligibility_certified": false,
+      "transfer": "background_only_not_qualifying_corpus",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "ACS4c14284",
+      "doi": "10.1021/acsnano.4c14284",
+      "title": "High-Entropy and Na-Rich-Designed High-Energy-Density Na3V2(PO4)3/C Cathode",
+      "journal": "ACS Nano",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "AM-Li",
+      "doi": "10.1002/adma.74230",
+      "title": "Suppressing Intrinsic Anti-Site Defects via Targeted Li-Occupation Unlocks Ultrahigh-Rate Capability in Vanadium-Free NASICON Cathodes",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "AEM-Spin",
+      "doi": "10.1002/aenm.202502300",
+      "title": "Balancing Electron Spin States of Na3.12Fe2.44(P2O7)2 Through F-Doping Realized High Performance on Sodium Ions Storage",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读扩展_AEMSpin_202502300.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "E02",
+      "doi": "10.1016/j.ensm.2024.103861",
+      "title": "Copper-induced lattice distortion in Na4Fe3(PO4)2(P2O7) cathode enabling high power density Na-ion batteries with good cycling stability",
+      "journal": "Energy Storage Materials 73",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "FM-EDGE02",
+      "doi": "10.1002/adfm.202523851",
+      "title": "Boosting Long-Life Sodium Storage of Na4MnV(PO4)3 via Synergistic Bond Structure Regulation and Interfacial Modification",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读扩展_FMEDGE02_202523851.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "FM-EDGE03",
+      "doi": "10.1002/aenm.202404217",
+      "title": "The Investigation of Fe–F Bond Chemistry on Structural Stability for Highly Durable Layered Na2FePO4F Cathode",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md",
+        "补读扩展_FMEDGE03_202404217.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "N01",
+      "doi": "10.1038/s41467-025-58012-0",
+      "title": "Activating fast and reversible sodium storage in NASICON cationic defect sites through fluorine doping",
+      "journal": "Nature Communications",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "E08-NE",
+      "doi": "10.1016/j.nanoen.2025.111397",
+      "title": "Air-stable and robust iron-based phosphate cathodes for fast-charged and wide-temperature range sodium ion storage",
+      "journal": "Nano Energy",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "NC60823",
+      "doi": "10.1038/s41467-025-60823-0",
+      "title": "Layered-columnar cathode materials for sodium-ion batteries",
+      "journal": "Nature Communications",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "scope_boundary_pending",
+      "eligibility_certified": false,
+      "transfer": "boundary_not_default_material_evidence",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion.",
+        "Object boundary: new layered-columnar organic-inorganic phosphonate versus cathode modification; first-online qualification debt remains."
+      ]
+    },
+    {
+      "id": "ESM103781",
+      "doi": "10.1016/j.ensm.2024.103781",
+      "title": "Identifying the β-to-α phase transition during the long cycling process in Na2FePO4F cathode",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "unknown"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "历史DOI台账草案_2026-09-23.md"
+      ],
+      "content_limits": [
+        "Metadata and audit pointers only; this row does not certify every scientific conclusion."
+      ]
+    },
+    {
+      "id": "B01",
+      "doi": "10.1002/adma.202414358",
+      "title": "A Phase-Transition–Free Sodium Vanadium Phosphate Cathode via Medium-Entropy Engineering for Superior Sodium Ion Batteries",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B01_AM_202414358.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B02",
+      "doi": "10.1021/jacs.5c08636",
+      "title": "Mechanistic Insights into Enhanced Capacity and Pure-Phase Formation in Fe-Based Mixed Phosphate Cathodes",
+      "journal": "Journal of the American Chemical Society",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "recorded_overview_only",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B02_JACS_5c08636.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": [
+        "Five overview images were seen, but detailed original-image validation incomplete; not counted among 48 full-image records."
+      ]
+    },
+    {
+      "id": "B03",
+      "doi": "10.1002/adma.202410797",
+      "title": "Electronic Confinement-Restrained MnNa· Anti-Site Defects in Sodium-Rich Phosphates Toward Multi-Electron Transfer and High Energy Efficiency",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B03_AM_202410797.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B04",
+      "doi": "10.1002/anie.7090074",
+      "title": "Tuning Redox Potentials in NASICON Cathode via Covalent Lattice Modulation",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B04_Angew_7090074.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B05",
+      "doi": "10.1002/adma.202400690",
+      "title": "Homeostatic Solid Solution Reaction in Phosphate Cathode: Breaking High-Voltage Barrier to Achieve High Energy Density and Long Life of Sodium-Ion Batteries",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B05_AM_202400690_含勘误.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": [
+        "Associated correction 10.1002/adma.202404532 was read and is not a separate research-paper identity."
+      ]
+    },
+    {
+      "id": "B06",
+      "doi": "10.1002/adma.202409782",
+      "title": "Zero-Waste Polyanion and Prussian Blue Composites toward Practical Sodium-Ion Batteries",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B06_AM_202409782.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B07",
+      "doi": "10.1002/anie.8606538",
+      "title": "NaO6 Octahedron-Engineered Sodium Iron Sulfate Cathodes for High-Rate and Sustainable Sodium-Ion Batteries",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B07_Angew_8606538.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B08",
+      "doi": "10.1002/anie.6097046",
+      "title": "Mitigating Lattice Distortion of Iron-Sulfate Cathode via Quasi-Perfect Ordered Motif for High-Temperature Sodium-Ion Batteries",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B08_Angew_准有序硫酸盐_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B09",
+      "doi": "10.1021/jacs.5c02485",
+      "title": "Unlocking Phase Purity of Sodium Iron Sulfate for Low-Cost and High-Performance Sodium-Ion Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B09_JACS_5c02485.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B10",
+      "doi": "10.1021/jacs.3c14452",
+      "title": "Development of High-Performance Iron-Based Phosphate Cathodes toward Practical Na-Ion Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B10_JACS_3c14452.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B11",
+      "doi": "10.1021/jacs.5c02480",
+      "title": "Heterogeneous-Interface-Induced Charge Redistribution Toward Fe-Based Polyanion Cathode for Advanced Sodium-Ion Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B11_JACS_5c02480.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B12",
+      "doi": "10.1002/anie.202219304",
+      "title": "A High-Energy NASICON-Type Na3.2MnTi0.8V0.2(PO4)3 Cathode Material with Reversible 3.2-Electron Redox Reaction for Sodium-Ion Batteries",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B12_Angew_202219304.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": [
+        "Embedded space-group symbols were not fully parsed; exact symmetry symbols remain unverified."
+      ]
+    },
+    {
+      "id": "B13",
+      "doi": "10.1002/aenm.202302733",
+      "title": "Unraveling the Fast Na Diffusion Kinetics of NASICON at High Voltage via High Entropy for Sodium-Ion Battery",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B13_AEM_202302733.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": [
+        "Embedded space-group symbols were not fully parsed; exact symmetry symbols remain unverified."
+      ]
+    },
+    {
+      "id": "B14",
+      "doi": "10.1021/jacs.1c06727",
+      "title": "Activating a Multielectron Reaction of NASICON-Structured Cathodes toward High Energy Density for Sodium-Ion Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B14_JACS_1c06727.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B15",
+      "doi": "10.1002/aenm.202501979",
+      "title": "Enabling Accelerated Na+ Dynamics Through Li-Induced Electrostatic Shielding for High-Performance Na3V2(PO4)2F3 Cathode",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B15_AEM_202501979.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B16",
+      "doi": "10.1016/j.ensm.2025.104308",
+      "title": "Steric-hindrance engineering to stabilize structural evolution in biphasic Na4Fe3(PO4)2P2O7–Na2FeP2O7 cathode",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B16_ESM_104308.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B17",
+      "doi": "10.1021/acsnano.3c09519",
+      "title": "Boosting Multielectron Reaction Stability of Sodium Vanadium Phosphate by High-Entropy Substitution",
+      "journal": "ACS Nano",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B17_ACSNano_3c09519.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B18",
+      "doi": "10.1002/aenm.202200966",
+      "title": "Reversible Activation of V4+/V5+ Redox Couples in NASICON Phosphate Cathodes",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B18_AEM_202200966.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B19",
+      "doi": "10.1021/acsnano.5c18360",
+      "title": "Modulating Cation Intermixing Behavior Enables Wide-Temperature-Stable Na2+2xFe2–x(SO4)3 Cathode for Sodium-Ion Batteries",
+      "journal": "ACS Nano",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B19_ACSNano_5c18360.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B20",
+      "doi": "10.1002/aenm.71459",
+      "title": "Electron Spin-State Regulation Unlocks Structural Robustness and Stable Sodium Storage in Na4Fe3(PO4)2P2O7 Cathode",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B20_AEM_71459.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B21",
+      "doi": "10.1002/adfm.76973",
+      "title": "Electronic Orchestration of Iron-Based Sulfate Cathodes Toward Exceptional Sodium-Storage Longevity Beyond 20000 Cycles",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B21_AFM_76973.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B22",
+      "doi": "10.1021/acsnano.4c18614",
+      "title": null,
+      "journal": "ACS Nano",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "quarantined_metadata_only",
+      "quarantine": true,
+      "source_files": [
+        "新增精读_B22_ACSNano_4c18614_通用迁移待确认.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B23",
+      "doi": "10.1016/j.ensm.2025.104138",
+      "title": "Electronic structure engineering through strengthened d–p orbital hybridization of sodium ferric sulfate cathode with enhanced electrochemical performance for sodium-ion batteries",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B23_ESM_104138.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B24",
+      "doi": "10.1021/acsnano.4c14448",
+      "title": "Trace Cu Doping Enabled High Rate and Long Cycle Life Sodium Iron Phosphate Cathode for Sodium-Ion Batteries",
+      "journal": "ACS Nano",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B24_ACSNano_4c14448.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B25",
+      "doi": "10.1021/acs.nanolett.5c05384",
+      "title": "Bond-Defect Synergy Enabled Ultrastable and High-Rate Sodium Iron Phosphate Cathode through Zn/F Co Substitution",
+      "journal": "Nano Letters",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B25_NanoLetters_5c05384.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B26",
+      "doi": "10.1021/acs.nanolett.4c04913",
+      "title": "Regulation of Coordination Chemistry To Accelerate Na+ Transfer Kinetics of Polyanionic Cathodes for Ultrastable Sodium-Ion Batteries",
+      "journal": "Nano Letters",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B26_NanoLetters_4c04913.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B27",
+      "doi": "10.1016/j.ensm.2025.104548",
+      "title": "Carbon quantum dot dual-regulation for constructing high-performance NFPP cathode: Synergistic breakthrough in electron conductivity and ion transport",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B27_ESM_104548.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B28",
+      "doi": "10.1016/j.nanoen.2025.111075",
+      "title": "Dendritic conductive carbon networks enhance Na⁺ transport in Na2+2δFe2−δ(SO4)3@C cathode for fast charging and wide temperature sodium-ion batteries",
+      "journal": "Nano Energy",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B28_NanoEnergy_111075.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B29",
+      "doi": "10.1021/acsnano.5c15785",
+      "title": "Boosting Na+ Storage and Thermal Stability of Na4Fe3(PO4)2P2O7 via High-Entropy Engineering",
+      "journal": "ACS Nano",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B29_ACSNano_5c15785.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B30",
+      "doi": "10.1016/j.jechem.2025.06.010",
+      "title": "Pillar doping of Na4 site in Na4Fe3(PO4)2P2O7 alleviating structural evolution at high voltages for sodium storage",
+      "journal": "Journal of Energy Chemistry",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B30_JEC_2025_06_010.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B31",
+      "doi": "10.1016/j.jechem.2025.11.032",
+      "title": "Manipulating chemical environment via entropy configuration to facilitate cationic redox reactions in Na4Fe1.5Mn1.5(PO4)2P2O7",
+      "journal": "Journal of Energy Chemistry",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B31_JEC_2025_11_032.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B32",
+      "doi": "10.1016/j.ensm.2024.103848",
+      "title": null,
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "quarantined_metadata_only",
+      "quarantine": true,
+      "source_files": [
+        "新增精读_B32_ESM_103848_通用迁移待确认.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B33",
+      "doi": "10.1016/j.jechem.2026.05.034",
+      "title": "Multifunctional carbon dots synergistically engineer interface and bulk properties for high-performance Na4Fe3(PO4)2P2O7 cathode",
+      "journal": "Journal of Energy Chemistry",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B33_JEC_2026_05_034.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B34",
+      "doi": "10.1016/j.nanoen.2021.106680",
+      "title": "A novel Fe-defect induced pure-phase Na4Fe2.91(PO4)2P2O7 cathode material with high capacity and ultra-long lifetime for low-cost sodium-ion batteries",
+      "journal": "Nano Energy",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B34_NanoEnergy_106680.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B35",
+      "doi": "10.1021/acsnano.5c13260",
+      "title": "Reconciling Capacity Degradation for Sodium-Ion Pouch Cell by Practical Electrocatalytic-Driven Compensation Strategy",
+      "journal": "ACS Nano",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B35_ACSNano_5c13260.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B36",
+      "doi": "10.1002/adfm.202211257",
+      "title": "Mg-Doped Na4Fe3(PO4)2(P2O7)/C Composite with Enhanced Intercalation Pseudocapacitance for Ultra-Stable and High-Rate Sodium-Ion Storage",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_B36_AFM_202211257.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B37",
+      "doi": "10.1002/adfm.202402145",
+      "title": "Carbon Coated Fe-Based Sulphate Nanoparticles within Continuous Conductive Network for Low-Cost and High-Performance Symmetrical Sodium-Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_cathode_scope_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B37_AFM_双碳硫酸盐_正极范围正文完成_2026-10-21.md"
+      ],
+      "content_limits": [
+        "Only cathode scope is complete; independent anode/symmetric-cell branches not studied or migrated."
+      ]
+    },
+    {
+      "id": "B38",
+      "doi": "10.1016/j.ensm.2026.105405",
+      "title": "Engineering face-to-face amorphous/crystalline heteroregions as Na+ wells and built-in electric field accelerators for ultrafast, durable Na3V2(PO4)3 cathodes",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B38_ESM_晶态非晶区域取舍_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B39",
+      "doi": "10.1021/acsenergylett.2c02693",
+      "title": "Revealing the Phase Evolution in Na4FexP4O12+x (2 ≤ x ≤ 4) Cathode Materials",
+      "journal": "ACS Energy Letters",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B39_ACSEnergyLetters_成分物相地图_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B40",
+      "doi": "10.1002/adma.202512435",
+      "title": "Superstructure Engineering Enables NASICON-Type Phosphate Cathodes with Increased Working Voltage and Energy Density",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B40_AM_超结构与选择性升压_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B41",
+      "doi": "10.1002/adfm.202520433",
+      "title": "Dominant Solid-Solution Reactions in a Medium-Entropy NASICON Cathode for High-Rate Sodium-Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B41_AFM_中熵与主导固溶反应_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B42",
+      "doi": "10.1021/acsenergylett.3c01183",
+      "title": "A Multielectron-Reaction and Low-Strain Na3.5Fe0.5VCr0.5(PO4)3 Cathode for Na-Ion Batteries",
+      "journal": "ACS Energy Letters",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B42_ACSEL_多电子低应变与位点库存_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B43",
+      "doi": "10.1016/j.nanoen.2024.109812",
+      "title": "A multicationic-substituted configurational entropy-enabled NASICON cathode for high-power sodium-ion batteries",
+      "journal": "Nano Energy",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B43_NanoEnergy_中间相与跨尺度应变_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B44",
+      "doi": "10.1002/adfm.202213711",
+      "title": "Quantum Physics and Deep Learning to Reveal Multiple Dimensional Modified Regulation by Ternary Substitution of Iron, Manganese, and Cobalt on Na3V2(PO4)3 for Superior Sodium Storage",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B44_AFM_体相表层双作用与预测边界_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B45",
+      "doi": "10.1002/adfm.202315318",
+      "title": "Electrostatically Shielded Transportation Enabling Accelerated Na+ Diffusivity in High-Performance Fluorophosphate Cathode for Sodium-Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B45_AFM_阴阳离子双调控与静电解释_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B46",
+      "doi": "10.1002/adma.202400229",
+      "title": "Unlocking the Sodium Storage Potential in Fluorophosphate Cathodes: Electrostatic Interaction Lowering Versus Structural Disordering",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B46_AM_竞争机制与反向预测对照_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B47",
+      "doi": "10.1021/acsnano.2c09122",
+      "title": "From Solid-Solution MXene to Cr-Substituted Na3V2(PO4)3: Breaking the Symmetry of Sodium Ions for High-Voltage and Ultrahigh-Rate Cathode Performance",
+      "journal": "ACS Nano",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B47_ACSNano_MXene转化与局域迁移_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B48",
+      "doi": "10.1002/adma.74789",
+      "title": "Unlocking Ultra-Long Cycling Stability in Fluorophosphate Cathodes via Electrostatic Interaction Regulation and Enhanced V─O Covalency",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B48_AM_骨架键与迁移解耦_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B49",
+      "doi": "10.1002/adma.202505093",
+      "title": "Fast Screening Suitable Doping Transition Metals to Na3V2(PO4)2F3 for Sodium-Ion Batteries with High Energy Density in Wide-Temperature Range",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B49_AM_理论筛选与多目标收敛_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B50",
+      "doi": "10.1002/adfm.202512341",
+      "title": "High-Entropy Doped KTiOPO4-Type Vanadium-Based Fluorophosphate Cathodes for High-Energy Sodium-Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B50_AFM_成核交换与多变量高熵设计_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B51",
+      "doi": "10.1002/adfm.202109694",
+      "title": "Localized Electron Density Redistribution in Fluorophosphate Cathode: Dangling Anion Regulation and Enhanced Na-Ion Diffusivity for Sodium-Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B51_AFM_悬挂配体与分平台迁移_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B52",
+      "doi": "10.1016/j.scib.2024.01.026",
+      "title": "Aluminum ion chemistry of Na4Fe3(PO4)2(P2O7) for all-climate full Na-ion battery",
+      "journal": "Science Bulletin",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B52_SciBull_铝取代与对照收敛_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B53",
+      "doi": "10.1016/j.scib.2023.07.034",
+      "title": "Revealing the structural chemistry in Na6−2xFex(SO4)3 (1.5 ≤ x ≤ 2.0) for low-cost and high-performance sodium-ion batteries",
+      "journal": "Science Bulletin",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B53_SciBull_相区与首圈活化分层_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B54",
+      "doi": "10.1016/j.nanoen.2023.108747",
+      "title": "Robust iron-based cathode for ultralong-lasting Na-ion battery with a wide operation-temperature",
+      "journal": "Nano Energy",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B54_NanoEnergy_惰性支撑与电子库存_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B55",
+      "doi": "10.1021/acsnano.5c06271",
+      "title": "Dual-Phase Engineered Iron-Based Polyanion Cathodes for Fast and Durable Sodium-Ion Batteries",
+      "journal": "ACS Nano",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B55_ACSNano_双相分工与杂相转化_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B56",
+      "doi": "10.1016/j.mattod.2025.03.010",
+      "title": "A novel NASICON-Na3.4MnV0.2Cr0.2Ti0.6(PO4)3 cathode with ultrahigh energy density and remarkable cycling stability toward practical Na-ion batteries",
+      "journal": "Materials Today",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B56_MaterialsToday_多电子分工与钠库存_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B57",
+      "doi": "10.1021/jacs.4c09379",
+      "title": "Local Electronic Structure Regulation Enabling Fluorophosphates Cathode with Improved Redox Potential and Reversible Capacity for Sodium-Ion Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B57_JACS_轨道对照与选择性电压调控_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B58",
+      "doi": "10.1002/adma.202413013",
+      "title": "Dynamic Lock-And-Release Mechanism Enables Reduced ΔG at Low Temperatures for High-Performance Polyanionic Cathode in Sodium-Ion Batteries",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B58_AM_动态配位与过程证据_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B59",
+      "doi": "10.1002/adma.202110108",
+      "title": "An Advanced High-Entropy Fluorophosphate Cathode for Sodium-Ion Batteries with Increased Working Voltage and Energy Density",
+      "journal": "Advanced Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B59_AM_平台容量重分配与熵归一_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B60",
+      "doi": "10.1002/aenm.71389",
+      "title": "High-Entropy-Tailored d−p Orbital Hybridization in Na3V2(PO4)2O2F Cathodes for Durable Sodium-Ion Batteries",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B60_AEM_双轨道与表体反应配对_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B61",
+      "doi": "10.1002/adfm.202305109",
+      "title": "Activating the Inert Na1 Sites in Na2FePO4F Toward High Performance Sodium Storage",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B61_AFM_钠位点激活与扩散反例_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B62",
+      "doi": "10.1016/j.ensm.2025.104822",
+      "title": "Mn vacancies-induced electronic and structural regulation of NASICON phosphate cathodes toward highly stable sodium ion batteries",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B62_ESM_锰空位与耦合缺陷审查_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B63",
+      "doi": "10.1002/adfm.202313998",
+      "title": "Ultrafast Synthesis of Large-Sized and Conductive Na3V2(PO4)2F3 Simultaneously Approaches High Tap Density, Rate and Cycling Capability",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B63_AFM_致密大颗粒与热史取舍_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B64",
+      "doi": "10.1002/adfm.77267",
+      "title": "Triggering Atomic Reconstruction in Dopant-Free Na3.12Fe2.44(P2O7)2 Cathode via Sodium Deficiency Chemistry for Practical Sodium-Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B64_AFM_缺钠补偿与界面闭环_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B65",
+      "doi": "10.1016/j.jechem.2026.08.019",
+      "title": "Enabling fast and reversible kinetics via TM–O bond modulation in homogeneous solid-solution medium-entropy NASICON for sodium ion batteries",
+      "journal": "Journal of Energy Chemistry",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B65_JEC_端元融合与固溶对照_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B66",
+      "doi": "10.1016/j.ensm.2025.104245",
+      "title": "Role of tin doping in Na4VMn(PO4)3 for sodium-ion batteries",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B66_ESM_锡掺杂与表面副相的目标取舍_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B67",
+      "doi": "10.1002/adfm.202302045",
+      "title": "V Doping in NASICON-Structured Na3MnTi(PO4)3 Enables High-Energy and Stable Sodium Storage",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B67_AFM_高电压容量配置与组合体系归因_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B68",
+      "doi": "10.1016/j.nanoen.2023.109002",
+      "title": "Double-pinning effect assisting Na4VMn(PO4)3 with superior structural and electrochemical stabilization for sodium-ion batteries",
+      "journal": "Nano Energy",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B68_NanoEnergy_双因素对照与钉扎机制边界_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B69",
+      "doi": "10.1002/adfm.76410",
+      "title": "Suppressing Voltage Hysteresis via Multisite Chemical Regulation Toward Stable Sodium Storage in NMTP Cathodes",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B69_AFM_反位滞后与溶出分支验证_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B70",
+      "doi": "10.1002/aenm.71276",
+      "title": "Anion–Cation Dual-Site Co-Doping Unlocking NASICON Na4VMn(PO4)3 Cathodes Toward Advanced Sodium–Ion Batteries",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B70_AEM_局域结构分工与器件条件闭合_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B71",
+      "doi": "10.1002/adfm.76968",
+      "title": "Synergistic Regulation of Charge and Ion Transport in Mn-Rich NASICON Cathodes Toward High-Energy Sodium-Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B71_AFM_红氧激活与框架扩展及可逆大应变_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B72",
+      "doi": "10.1021/acsnano.4c06510",
+      "title": "Overcoming Kinetic Limitations of Polyanionic Cathode toward High-Performance Na-Ion Batteries",
+      "journal": "ACS Nano",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B72_ACSNano_晶面取向与扩散长度及动力学反例_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B73",
+      "doi": "10.1016/j.ensm.2021.12.034",
+      "title": "Electronic structure regulation of Na2FePO4F cathode toward superior high-rate and high-temperature sodium-ion batteries",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B73_ESM_工作态电子结构与碳层共变归因_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B74",
+      "doi": "10.1002/aenm.202506800",
+      "title": "Entropy-Stabilized NASICON Cathodes Enabling Efficient V4+/V5+ Redox and Unprecedented Cycling Durability for Sodium-Ion Batteries",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B74_AEM_多元素电荷账与分段相变及熵归因_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B75",
+      "doi": "10.1002/anie.6106605",
+      "title": "Decoupling TM–O Antibonding via Targeted Orbital Engineering Enables High-Voltage and Long-Life Sodium Polyanionic Cathodes",
+      "journal": "Angewandte Chemie International Edition",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B75_Angew_电压窗口失效诊断与轨道调控闭环_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B76",
+      "doi": "10.1002/aenm.70898",
+      "title": "Suppressing V/Na Anti-Site Defects via Fluorine Doping Enables High-Voltage and Stable V-Based NASICON Cathodes for Sodium-Ion Batteries",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B76_AEM_有害阳离子与有益Na迁移双路径_正文完成_2026-10-21.md"
+      ],
+      "content_limits": [
+        "Embedded space-group symbols were not fully parsed; exact symmetry symbols remain unverified."
+      ]
+    },
+    {
+      "id": "B77",
+      "doi": "10.1002/adfm.202402447",
+      "title": "Unlocking Quasi-Monophase Behavior in NASICON Cathode to Drive Fast-Charging Toward Durable Sodium-Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B77_AFM_准单相边界与快充SOC分母审查_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B78",
+      "doi": "10.1002/adfm.202406488",
+      "title": "Bond Structure Engineering Induced the Mn Redox Stabilization Toward High-Energy Mn-Based Phosphate Cathode",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B78_AFM_分反应归一与平均局域结构边界_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B79",
+      "doi": "10.1016/j.jechem.2024.06.003",
+      "title": "A high-entropy-designed cathode with V5+-V2+ multi-redox for high energy density sodium-ion batteries",
+      "journal": "Journal of Energy Chemistry",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B79_JEC_多窗口性能分账与低浓度多元素熵审查_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B80",
+      "doi": "10.1002/aenm.202203971",
+      "title": "High Entropy Enabling the Reversible Redox Reaction of V4+/V5+ Couple in NASICON-Type Sodium Ion Cathode",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B80_AEM_高压反应分区与高熵因果边界_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B81",
+      "doi": "10.1016/j.ensm.2024.103734",
+      "title": "High-entropy doping NASICON-Cathode breaks the kinetic barriers and suppresses voltage hysteresis for sodium ion batteries",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B81_ESM_均压收益与阴性溶出对照_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B82",
+      "doi": "10.1016/j.ensm.2024.103650",
+      "title": "A strategy of high entropy enabling advanced NASICON sodium-ion cathodes with high stabilization and multicationic redox",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B82_ESM_多中心容量守恒与双极分母_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B83",
+      "doi": "10.1016/j.ensm.2024.103960",
+      "title": "Activating reversible multi-electron reaction of Na3(VO)2(PO4)2F cathode via Fe/F dual-doping for high-energy and stable sodium storage",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B83_ESM_低压增容与自旋路径证据边界_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B84",
+      "doi": "10.1016/j.nanoen.2024.109557",
+      "title": "Anion-doped Na2.9Fe1.7(SO4)2.7(PO4)0.3 cathode with improved cyclability and air stability for low-cost sodium-ion batteries",
+      "journal": "Nano Energy",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B84_NanoEnergy_湿空气干预与性能代价分账_正文完成_2026-10-21.md"
+      ],
+      "content_limits": [
+        "Voltage equation denominator/definition ambiguity remains; formula reading does not certify computational reproducibility."
+      ]
+    },
+    {
+      "id": "B85",
+      "doi": "10.1016/j.ensm.2024.103319",
+      "title": "p/s-orbital hybridization induced by Mg-doping to active Na sites in Na2FePO4F cathode for long-life and high-rate sodium-ion batteries",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B85_ESM_位点联动与电子库存约束_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B86",
+      "doi": "10.1016/j.ensm.2023.102905",
+      "title": "Tailored voltage plateau enabling superior sodium storage for Fe-based fluorophosphate cathode",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B86_ESM_平台瓶颈分解与匹配对照_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B87",
+      "doi": "10.1016/j.ensm.2022.04.025",
+      "title": "Reversible multielectron redox in NASICON cathode with high energy density for low-temperature sodium-ion batteries",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B87_ESM_低温保持与多电子库存核查_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B88",
+      "doi": "10.1016/j.ensm.2022.10.011",
+      "title": "Enhanced electrochemical performance of NASICON-type sodium ion cathode based on charge balance theory",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B88_ESM_阴离子补偿剂量窗口与容量分账_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B89",
+      "doi": "10.1016/j.ensm.2022.03.044",
+      "title": "Homogeneous hybridization of NASICON-type cathode for enhanced sodium-ion storage",
+      "journal": "Energy Storage Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B89_ESM_双相协同物理混合对照与状态证据_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B90",
+      "doi": "10.1002/adfm.76147",
+      "title": "Defying the Kinetics Limitations of Na3V2(PO4)2F3 Cathode by a Tailored Sol-Gel Thermal Protocol: Toward Ultra-Stable Sodium Storage at High Rates and Subzero Temperatures",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B90_AFM_热过程多尺度共变与位点归因边界_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B91",
+      "doi": "10.1002/aenm.71315",
+      "title": "Regulating Framework Stability of Sodium Iron Sulfate Cathodes for Practical Sodium–Ion Batteries",
+      "journal": "Advanced Energy Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B91_AEM_体相表面共同失效与非单调最优_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B92",
+      "doi": "10.1002/adfm.75603",
+      "title": "Install the Patch to Unlock Novel Na+ Storage Sites for Achieving Ultrahigh-capacity Na3V2(PO4)3 Cathodes",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B92_AFM_界面补丁容量拆分与归一基准_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B93",
+      "doi": "10.1002/adfm.202209482",
+      "title": "Heterogeneous NASICON-Type Composite as Low-Cost, High-Performance Cathode for Sodium-Ion Batteries",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B93_AFM_异质复合与双碳层贡献分离_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B94",
+      "doi": "10.1002/adfm.202502343",
+      "title": "Na2S Presodiation Enables Long Cycling Anode-Free Sodium Batteries via Rapid Spontaneous Reactions",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_narrative_complete_equation_gap",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B94_AFM_正极补钠库存与自发反应闭环_正文完成_2026-10-21.md"
+      ],
+      "content_limits": [
+        "Four main-text equations (1)-(4) unavailable as readable text; formula images not read."
+      ]
+    },
+    {
+      "id": "B95",
+      "doi": "10.1002/adfm.76707",
+      "title": "A Novel Na2Fe2P2O7SO4 Cathode Material: Study on the Mechanism of Double Anion Synergistic Coupling and Electrochemical Performance Enhancement",
+      "journal": "Advanced Functional Materials",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B95_AFM_双阴离子设计与碳层优化分证_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B96",
+      "doi": "10.1016/j.nanoen.2025.110986",
+      "title": "A 3.7 V amorphous Na2VO(SO4)2 cathode with boosted electrode kinetics for advanced sodium-ion batteries",
+      "journal": "Nano Energy",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B96_NanoEnergy_非晶化对照与力学输运分证_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B97",
+      "doi": "10.1021/acsenergylett.1c02107",
+      "title": "Mn-Rich Phosphate Cathodes for Na-Ion Batteries with Superior Rate Performance",
+      "journal": "ACS Energy Letters",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B97_ACSEnergyLetters_选择性取代位点与富锰推广_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "B98",
+      "doi": "10.1021/acsenergylett.1c02361",
+      "title": "In Situ Secondary Phase Modified Low-Strain Na3Ti(PO3)3N Cathode Achieving Fast Kinetics and Ultralong Cycle Life",
+      "journal": "ACS Energy Letters",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "recorded_complete",
+        "images": "not_read",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "B98_ACSEnergyLetters_第二相功能与宿主长寿命分离_正文完成_2026-10-21.md"
+      ],
+      "content_limits": []
+    },
+    {
+      "id": "NC39384",
+      "doi": "10.1038/s41467-023-39384-7",
+      "title": "Bridging multiscale interfaces for developing ionically conductive high-voltage iron sulfate-containing sodium-based battery positive electrodes",
+      "journal": "Nature Communications",
+      "reading": {
+        "main_text": "recorded_complete",
+        "captions": "unknown",
+        "images": "recorded_complete",
+        "supplementary_information": "not_read"
+      },
+      "eligibility": "provisionally_included_not_final_audit",
+      "eligibility_certified": false,
+      "transfer": "public_record_subject_to_claim_limits",
+      "quarantine": false,
+      "source_files": [
+        "新增精读_NC_39384_2026-09-24.md",
+        "范围与去重审计_80篇_2026-10-21.md"
+      ],
+      "content_limits": []
+    }
+  ]
+}

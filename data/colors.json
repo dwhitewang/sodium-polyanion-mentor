@@ -1,0 +1,1212 @@
+{
+  "schema_version": 1,
+  "observed": [
+    {
+      "entry_id": "C01",
+      "doi": "10.1002/anie.202422732",
+      "line_start": 11,
+      "line_end": 25,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "暗态青蓝、光照朱红，初始谱灰；曲线/标签跨图同身份。",
+      "saved_hex_examples": {
+        "dark": "#09A1DE",
+        "illuminated": "#E44F39",
+        "reference": "#777777"
+      },
+      "limits_or_conflicts": "Fig.5峰组分色属于化学组分，不沿用工况身份。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C02",
+      "doi": "10.1002/adma.73081",
+      "line_start": 27,
+      "line_end": 40,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "四配方四色，机制收窄至灰蓝对照和珊瑚红最佳样。",
+      "saved_hex_examples": {
+        "control": "#8399B6",
+        "target": "#E06868",
+        "intermediate": "#6DB680",
+        "excess": "#EFB680"
+      },
+      "limits_or_conflicts": "浅色细线需加深；热图量程不足，红绿未做色觉检验。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C03",
+      "doi": "10.1002/anie.202525531",
+      "line_start": 46,
+      "line_end": 46,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "Fe3.00深蓝、Fe2.79珊瑚红；中间样青蓝/金黄。",
+      "saved_hex_examples": {
+        "control": "#355C7D",
+        "target": "#D97067"
+      },
+      "limits_or_conflicts": "样品、充放背景、WT/DRT数值色标分层。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C04",
+      "doi": "10.1038/s41467-026-74282-8",
+      "line_start": 47,
+      "line_end": 47,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "两路线浅蓝/淡橙；温度另用冷暖序列。",
+      "saved_hex_examples": {
+        "WC_NFC": "#98C7D8",
+        "SC_ESC": "#F8CA80"
+      },
+      "limits_or_conflicts": "Fig.4充放背景复用样品蓝橙，需避免语义混淆。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C05",
+      "doi": "10.1038/s41467-025-58012-0",
+      "line_start": 48,
+      "line_end": 48,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "脱钠蓝、嵌钠青绿、参照灰；Na位点另设字典。",
+      "saved_hex_examples": {
+        "desodiation": "#5353FF",
+        "sodiation": "#00B6B6",
+        "reference": "#888888"
+      },
+      "limits_or_conflicts": "循环图的放电色改紫，不能声称全篇统一。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C06",
+      "doi": "10.1002/anie.202507573",
+      "line_start": 49,
+      "line_end": 49,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "基准蓝、Bi最优洋红，其他紫/金。",
+      "saved_hex_examples": {
+        "control": "#6875ED",
+        "target": "#EB49AB"
+      },
+      "limits_or_conflicts": "充放/容量/CE复用颜色，需局部图例。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C07",
+      "doi": "10.1002/anie.202502693",
+      "line_start": 50,
+      "line_end": 50,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "基准紫、HE砖红，温度标签金橙。",
+      "saved_hex_examples": {
+        "control": "#6E619F",
+        "target": "#B64336"
+      },
+      "limits_or_conflicts": "Fig.5d身份疑点不得无声修正；热图无数值量程。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C08",
+      "doi": "10.1038/s41467-019-09170-5",
+      "line_start": 51,
+      "line_end": 51,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "性能E蓝/C洋红；环境状态独立色。",
+      "saved_hex_examples": {
+        "E": "#0000FF",
+        "C": "#FF00FF"
+      },
+      "limits_or_conflicts": "2019历史方法参考，不能计入近五年覆盖；高饱和度不宜整套照搬。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C09",
+      "doi": "10.1007/s40820-025-01881-3",
+      "line_start": 55,
+      "line_end": 59,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "样品珊瑚红/灰青绿；相同电压区间跨CV/GCD/容量用同浅底。",
+      "saved_hex_examples": {
+        "FM_NVPF": "#E47F73",
+        "NVPF": "#5AA68F"
+      },
+      "limits_or_conflicts": "理论目标改橙，紫色多义；NML为历史库参考，不据此扩充出版社范围。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C10",
+      "doi": "10.1021/acsnano.4c14284",
+      "line_start": 61,
+      "line_end": 67,
+      "historically_reported_panels": [
+        "Fig.1–7"
+      ],
+      "observed_semantics": "四组紫/黄绿/青蓝/橙筛选，再缩减紫/青蓝机制。",
+      "saved_hex_examples": {
+        "NVP": "#9871D9",
+        "target": "#18B3D4"
+      },
+      "limits_or_conflicts": "浅色风险、无数值热图和无样品名面板不能作为规范。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C11",
+      "doi": "10.1002/anie.202410590",
+      "line_start": 69,
+      "line_end": 73,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "四组蓝/金/砖红/黑，主机制蓝红。",
+      "saved_hex_examples": {
+        "control": "#365F93",
+        "target": "#B83F37"
+      },
+      "limits_or_conflicts": "蓝又指CE，红蓝黄另指晶胞轴。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C12",
+      "doi": "10.1016/j.ensm.2024.103861",
+      "line_start": 75,
+      "line_end": 81,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "五配方筛选；核心浅蓝/珊瑚红。",
+      "saved_hex_examples": {
+        "NFPP": "#78AFC7",
+        "target": "#F0757D"
+      },
+      "limits_or_conflicts": "Ni/Zn橙紫在DOS交换，必须固定元素字典。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C13",
+      "doi": "10.1016/j.nanoen.2025.111397",
+      "line_start": 83,
+      "line_end": 89,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "样品暖杏橙/浅蓝，环境状态另设字典。",
+      "saved_hex_examples": {
+        "NFCuPP": "#DFAF69",
+        "NFPP": "#7CB1D4"
+      },
+      "limits_or_conflicts": "Fig.4a温区上下样品图例反转；ELF不能解释为正负电荷增减。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C14",
+      "doi": "10.1038/s41467-025-60823-0",
+      "line_start": 91,
+      "line_end": 97,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "结构身份FeO6青/CPO3浅紫/Na黄；XRD数值顺序色标。",
+      "saved_hex_examples": {
+        "FeO6": "#20C7CF",
+        "CPO3": "#DAB7DE",
+        "Na": "#F0D52F"
+      },
+      "limits_or_conflicts": "充放状态在图间不统一；差分等值面正负及单位由图注给出。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C15",
+      "doi": "10.1002/adma.74230",
+      "line_start": 101,
+      "line_end": 101,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "对照珊瑚红/Li样蓝；电压区间绿深浅，关键状态彩色其余灰。",
+      "saved_hex_examples": {
+        "control": "#FA6D7C",
+        "target": "#3576B7"
+      },
+      "limits_or_conflicts": "位点/相/剖面位置独立图例；圆占据/方空位提供冗余。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C16",
+      "doi": "10.1007/s40820-026-02073-3",
+      "line_start": 103,
+      "line_end": 103,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "样品蓝/红/绿，反例灰，同色深浅用于状态。",
+      "saved_hex_examples": {
+        "NFPP": "#006BDB",
+        "Ni": "#FF3038",
+        "Mn": "#00A369",
+        "Zn": "#777777"
+      },
+      "limits_or_conflicts": "主线复核3/5/6，历史独立阅读覆盖六图；NML仅历史方法参考。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C17",
+      "doi": "10.1093/nsr/nwaf321",
+      "line_start": 105,
+      "line_end": 105,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "R暖橙/D灰蓝，普通扫描灰；温度谱与阶段结构对齐。",
+      "saved_hex_examples": {
+        "R": "#DA7852",
+        "D": "#5988A6"
+      },
+      "limits_or_conflicts": "约669px图面，非高清色度分析；NSR仅历史方法参考。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C18",
+      "doi": "10.1002/adma.74727",
+      "line_start": 111,
+      "line_end": 111,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "NFPP蓝/FJH橙，双样品×三温区矩阵。",
+      "saved_hex_examples": {
+        "NFPP": "#243BEA",
+        "FJH": "#FF8B16"
+      },
+      "limits_or_conflicts": "部分理论基准改紫；温区不应抢占样品色通道。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C19",
+      "doi": "10.1002/advs.202522907",
+      "line_start": 113,
+      "line_end": 113,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "母体淡蓝紫/改性洋红，SIMS碎片各自固定色。",
+      "saved_hex_examples": {
+        "control": "#8E9AF8",
+        "target": "#F65AB8"
+      },
+      "limits_or_conflicts": "约546px网页图只支持主要布局/近似色，非数字化定量。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C20",
+      "doi": "10.1002/anie.3720311",
+      "line_start": 117,
+      "line_end": 119,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "性能复合绿/基准蓝，相身份另用绿/青蓝/红。",
+      "saved_hex_examples": {
+        "composite": "#168F35",
+        "control": "#2584D5"
+      },
+      "limits_or_conflicts": "Fig.2样品映射不同；High/Low不能跨样定量。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C21",
+      "doi": "10.1002/adma.73107",
+      "line_start": 121,
+      "line_end": 123,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "NFPP蓝/Plasma-NFPP红，原位EIS同色深浅表示状态。",
+      "saved_hex_examples": {
+        "NFPP": "#2536CB",
+        "target": "#E3262C"
+      },
+      "limits_or_conflicts": "容量/CE、模型、元素、差分电荷、ELF分为不同命名空间。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C22",
+      "doi": "10.1002/anie.202514523",
+      "line_start": 135,
+      "line_end": 137,
+      "historically_reported_panels": [
+        "Fig.1–8"
+      ],
+      "observed_semantics": "四色筛选收窄粉蓝；选态点与谱线逐一匹配。",
+      "saved_hex_examples": {
+        "NFPP": "#E58494",
+        "target": "#1DABE0"
+      },
+      "limits_or_conflicts": "充放、量、结构与样品复用颜色，需明确图例。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C23",
+      "doi": "10.1002/adma.202418219",
+      "line_start": 131,
+      "line_end": 133,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "样品洋红/薄荷绿；电压分区背景跨GCD/dQdV/容量延续。",
+      "saved_hex_examples": {
+        "target": "#E83E91",
+        "control": "#62B78F"
+      },
+      "limits_or_conflicts": "两个窗口不能因背景相同混同；热图仅Strong/Weak。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C24",
+      "doi": "10.1002/adma.202408918",
+      "line_start": 127,
+      "line_end": 129,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "共生粉、端元绿/浅蓝、物理混合金，四组对照。",
+      "saved_hex_examples": {
+        "coherent": "#E98B93",
+        "NFPP": "#79A541",
+        "NVTP": "#6DB4D6",
+        "MIX": "#E6B632"
+      },
+      "limits_or_conflicts": "相身份在机制图变化；HC图注与图面色冲突。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C25",
+      "doi": "10.1002/anie.202423296",
+      "line_start": 139,
+      "line_end": 141,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "灰蓝/浅橙/红为阶梯对照，化学谱列×样品行。",
+      "saved_hex_examples": {
+        "baseline0": "#367EA2",
+        "baseline": "#E9AE5D",
+        "target": "#C62026"
+      },
+      "limits_or_conflicts": "NFPP局部改蓝；模拟共享色条仍需单位。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C26",
+      "doi": "10.1002/anie.202316957",
+      "line_start": 145,
+      "line_end": 149,
+      "historically_reported_panels": [
+        "Fig.1–4"
+      ],
+      "observed_semantics": "组成红/蓝/黑/金，筛选到性能保持主身份。",
+      "saved_hex_examples": {
+        "candidate": "#C94D4F",
+        "secondary": "#3689AE",
+        "baseline": "#303030"
+      },
+      "limits_or_conflicts": "下行颜色改负载量；同SOC应同色或编号，位点不等价元素。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C27",
+      "doi": "10.1002/adfm.202500290",
+      "line_start": 151,
+      "line_end": 153,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "天蓝/青绿/金/珊瑚红四组收窄蓝红。",
+      "saved_hex_examples": {
+        "baseline": "#62B6D0",
+        "Ni": "#60B8A8",
+        "B": "#EDC75D",
+        "Ni_B": "#E77986"
+      },
+      "limits_or_conflicts": "FTIR基准/Ni映射交换，统一前不能全篇套字典。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C28",
+      "doi": "10.1002/adfm.202505185",
+      "line_start": 155,
+      "line_end": 157,
+      "historically_reported_panels": [
+        "Fig.1–8"
+      ],
+      "observed_semantics": "没有稳定全篇样品色；Fig.5黑/绿/红/紫可作局部起点。",
+      "saved_hex_examples": {
+        "baseline_Fig5": "#242424",
+        "x003_Fig5": "#359A66",
+        "x005_Fig5": "#E22D3C",
+        "x007_Fig5": "#873A9D"
+      },
+      "limits_or_conflicts": "样品与温度均发生换色；统一建议不是作者原映射。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C29",
+      "doi": "10.1002/adfm.202412730",
+      "line_start": 159,
+      "line_end": 161,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "主样品浅紫/天蓝跨结构、性能、动力学、理论较稳。",
+      "saved_hex_examples": {
+        "MCM111": "#AD86B7",
+        "NFPP": "#6CA6CC"
+      },
+      "limits_or_conflicts": "价态、碎片、元素独立字典；无刻度TOFSIMS/ELF不能跨图量化。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C30",
+      "doi": "10.1038/s41467-023-39384-7",
+      "line_start": 163,
+      "line_end": 167,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "图5主样品深红/蓝，圆方或空实心冗余。",
+      "saved_hex_examples": {
+        "NFS_H": "#B30D18",
+        "NFS_L": "#355EA6"
+      },
+      "limits_or_conflicts": "主体/第二相蓝粉多次反转，不能说物相字典统一。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C31",
+      "doi": "10.1002/adfm.202511174",
+      "line_start": 169,
+      "line_end": 173,
+      "historically_reported_panels": [
+        "Fig.1–7"
+      ],
+      "observed_semantics": "四样品/暴露状态黑/品红/蓝紫/青绿。",
+      "saved_hex_examples": {
+        "baseline": "#242424",
+        "exposed": "#D71988",
+        "modified": "#4D26CC",
+        "modified_exposed": "#19BBB9"
+      },
+      "limits_or_conflicts": "建议颜色仅编码材料家族、线型编码暴露；原文时间字典不统一。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C32",
+      "doi": "10.1002/adfm.202518331",
+      "line_start": 175,
+      "line_end": 179,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "蓝/青绿/珊瑚红/浅紫为主性能字典。",
+      "saved_hex_examples": {
+        "baseline": "#326FA1",
+        "target": "#E67580"
+      },
+      "limits_or_conflicts": "XRD颜色不同；TEM显示色调不是元素身份，SOC卡通是假说。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C33",
+      "doi": "10.1016/j.nanoen.2023.108640",
+      "line_start": 181,
+      "line_end": 185,
+      "historically_reported_panels": [
+        "Fig.1–6",
+        "graphical abstract"
+      ],
+      "observed_semantics": "基准米灰、Li玫瑰粉、Na深青蓝、K赭橙。",
+      "saved_hex_examples": {
+        "baseline": "#CFC6B7",
+        "Li": "#C78390",
+        "Na": "#1C657C",
+        "K": "#C76C30"
+      },
+      "limits_or_conflicts": "温区整块渐变可改窄色条；谱学状态需匹配GCD。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C34",
+      "doi": "10.1002/adfm.75792",
+      "line_start": 191,
+      "line_end": 193,
+      "historically_reported_panels": [
+        "Fig.1–4"
+      ],
+      "observed_semantics": "核心基准灰蓝/共改红，两样分行共享过程。",
+      "saved_hex_examples": {
+        "baseline": "#467D95",
+        "target": "#C33845"
+      },
+      "limits_or_conflicts": "单改样蓝黄互换；公开独立论文使用经用户确认。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C35",
+      "doi": "10.1002/aenm.202502300",
+      "line_start": 195,
+      "line_end": 197,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "NFPO深蓝灰/F4珊瑚，筛选后收窄双色。",
+      "saved_hex_examples": {
+        "NFPO": "#274758",
+        "F4": "#ED8778"
+      },
+      "limits_or_conflicts": "价态、过程、连续量另设图例；差分电荷不可称ELF。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C36",
+      "doi": "10.1002/adfm.202509628",
+      "line_start": 201,
+      "line_end": 205,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "五样红/蓝/绿/紫/金收窄核心红蓝。",
+      "saved_hex_examples": {
+        "baseline": "#E43C52",
+        "target": "#2594CF",
+        "Cu": "#82A65C",
+        "Cr": "#9880B3",
+        "Mg": "#E1BB73"
+      },
+      "limits_or_conflicts": "不同形貌热图高度量程不等，不按颜色面积跨样定量。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C37",
+      "doi": "10.1002/adfm.202520871",
+      "line_start": 209,
+      "line_end": 213,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "NFPP靛蓝/NKFPP粉珊瑚，温度×检测矩阵。",
+      "saved_hex_examples": {
+        "NFPP": "#585A98",
+        "NKFPP": "#CF8D91"
+      },
+      "limits_or_conflicts": "NEB背景仅分组不编码能量；温区符号冗余。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C38",
+      "doi": "10.1002/adfm.76999",
+      "line_start": 217,
+      "line_end": 221,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "主要数据蓝/珊瑚红，DOS比较例外。",
+      "saved_hex_examples": {
+        "NFPP": "#487EAD",
+        "NFNCPP": "#EF737A"
+      },
+      "limits_or_conflicts": "XPS不同谱相同色不能直接当同化学成分。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C39",
+      "doi": "10.1002/aenm.202504854",
+      "line_start": 225,
+      "line_end": 231,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "三工艺样紫/珊瑚红/蓝。",
+      "saved_hex_examples": {
+        "sample1": "#AC83BE",
+        "sample2": "#E5626C",
+        "sample3": "#5AA5CF"
+      },
+      "limits_or_conflicts": "最佳样长循环改蓝；位点和温度字典也发生变化。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C40",
+      "doi": "10.1002/aenm.202404217",
+      "line_start": 235,
+      "line_end": 239,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "NFPF浅金/NFPF-B薰衣草紫，诊断/干预同检测镜像。",
+      "saved_hex_examples": {
+        "NFPF": "#EED18B",
+        "NFPF_B": "#9B95C4"
+      },
+      "limits_or_conflicts": "浅色需加深；元素/样品/谱成分独立，DRT箱体非规范。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C41",
+      "doi": "10.1002/adfm.202523851",
+      "line_start": 241,
+      "line_end": 245,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "三样蓝/青绿/珊瑚红，再收窄蓝红机制。",
+      "saved_hex_examples": {
+        "NMVP": "#4C9BC4",
+        "NMVMP": "#23988D",
+        "coated": "#E56973"
+      },
+      "limits_or_conflicts": "电流分解颜色不一致；共享0–160热图仍缺单位。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C42",
+      "doi": "10.1002/adfm.202309701",
+      "line_start": 249,
+      "line_end": 251,
+      "historically_reported_panels": [
+        "Fig.1–5",
+        "Scheme 1"
+      ],
+      "observed_semantics": "四对照深灰/蓝/绿/红贯穿多数图。",
+      "saved_hex_examples": {
+        "baseline": "#333333",
+        "Mn": "#3B79B8",
+        "F": "#2D9A68",
+        "Mn_F": "#D9484D"
+      },
+      "limits_or_conflicts": "红黑有时是圈数；先校自旋/身份再美化。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C43",
+      "doi": "10.1002/aenm.202404965",
+      "line_start": 253,
+      "line_end": 257,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "四组珊瑚红/金/青蓝/深蓝跨结构动力学原位较稳。",
+      "saved_hex_examples": {
+        "HEV": "#D87370",
+        "HE": "#DAB95B",
+        "V": "#64B5C8",
+        "B": "#366991"
+      },
+      "limits_or_conflicts": "全电池蓝另义；比例柱分母不同不是容量匹配图。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C44",
+      "doi": "10.1002/adfm.202531892",
+      "line_start": 261,
+      "line_end": 265,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "黑灰/绿/橙/蓝筛选收窄灰橙。",
+      "saved_hex_examples": {
+        "NFPP": "#444444",
+        "Nb1": "#4AA783",
+        "Nb2": "#E99132",
+        "Nb3": "#397DC0"
+      },
+      "limits_or_conflicts": "六图公开独立论文经用户确认；两样状态标签不全匹配。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C45",
+      "doi": "10.1002/adfm.76750",
+      "line_start": 267,
+      "line_end": 271,
+      "historically_reported_panels": [
+        "Fig.1–6"
+      ],
+      "observed_semantics": "FAC珊瑚红/CA浅蓝，多数样品对照一致。",
+      "saved_hex_examples": {
+        "FAC": "#DC827E",
+        "CA": "#70A4C1"
+      },
+      "limits_or_conflicts": "红蓝又指充放/温度；图注面板与样品标签有冲突。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C46",
+      "doi": "10.1002/adfm.76558",
+      "line_start": 275,
+      "line_end": 281,
+      "historically_reported_panels": [
+        "Fig.1–5"
+      ],
+      "observed_semantics": "样品灰/蓝/珊瑚，筛选达标颜色另义；形成能发散图。",
+      "saved_hex_examples": {
+        "NFPP": "#777777",
+        "Sn": "#6D9FBC",
+        "B": "#F27968"
+      },
+      "limits_or_conflicts": "零点需固定，越界饱和标截断；精修单独实验/拟合/残差字典。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    },
+    {
+      "entry_id": "C47",
+      "doi": "10.1002/adma.202414358",
+      "line_start": 285,
+      "line_end": 291,
+      "historically_reported_panels": [
+        "Fig.1–8"
+      ],
+      "observed_semantics": "ME红/p灰，部分参数/阻抗对照蓝；Na位点蓝金另义。",
+      "saved_hex_examples": {
+        "ME": "#D9565B",
+        "p": "#777777"
+      },
+      "limits_or_conflicts": "元素×状态矩阵、工作态前后复验可取；同色不能跨语义推断。",
+      "evidence_status": "historical_visual_note_not_independently_reopened",
+      "hex_status": "visual_approximation_or_saved_original_adjustment; exact author RGB unverified"
+    }
+  ],
+  "palettes": [
+    {
+      "id": "dual",
+      "label": "双样本核心比较",
+      "provenance": "original proposal; not sampled from any paper",
+      "purpose": "基准/干预双样本跨结构、性能、工作态与循环后验证",
+      "neutral": {
+        "background": "#FFFFFF",
+        "text": "#2F3438",
+        "axes": "#4B5258",
+        "auxiliary": "#8B939A",
+        "grid": "#E3E7EA",
+        "missing": "#B6BBC0"
+      },
+      "role_map": [
+        {
+          "role": "baseline",
+          "hex": "#24526B",
+          "marker": "circle",
+          "line": "solid",
+          "fill": "open"
+        },
+        {
+          "role": "modified",
+          "hex": "#B85940",
+          "marker": "square",
+          "line": "dash",
+          "fill": "filled"
+        },
+        {
+          "role": "external_reference_not_main_sample",
+          "hex": "#737A80",
+          "marker": "triangle",
+          "line": "dot",
+          "fill": "open"
+        }
+      ],
+      "conditions": "同一变量中的配方身份贯穿全文；CE用同样品色+空心小点或独立副图，不另用蓝/红冒充新样品。",
+      "grayscale": "主组明度可能接近，必须保留圆/方、实/虚线和直接标签。",
+      "color_vision": "未进行色觉模拟；不称色盲安全。",
+      "numerical_preflight": {
+        "method": "sRGB relative luminance and white contrast only; not color-vision, print or final-size validation",
+        "colors": [
+          {
+            "hex": "#24526B",
+            "relative_luminance": 0.0747,
+            "white_contrast_ratio": 8.42
+          },
+          {
+            "hex": "#B85940",
+            "relative_luminance": 0.1771,
+            "white_contrast_ratio": 4.62
+          },
+          {
+            "hex": "#737A80",
+            "relative_luminance": 0.1912,
+            "white_contrast_ratio": 4.35
+          }
+        ]
+      }
+    },
+    {
+      "id": "categorical",
+      "label": "双因素四对照",
+      "provenance": "original proposal; not sampled from any paper",
+      "purpose": "基准、A、B、A+B机制判别；四色不预设效果排名",
+      "neutral": {
+        "background": "#FFFFFF",
+        "text": "#2F3438",
+        "axes": "#4B5258",
+        "auxiliary": "#8B939A",
+        "grid": "#E3E7EA",
+        "missing": "#B6BBC0"
+      },
+      "role_map": [
+        {
+          "role": "baseline",
+          "hex": "#3B454F",
+          "marker": "circle",
+          "line": "solid",
+          "fill": "open"
+        },
+        {
+          "role": "A_only",
+          "hex": "#246C8B",
+          "marker": "triangle",
+          "line": "dash",
+          "fill": "filled"
+        },
+        {
+          "role": "B_only",
+          "hex": "#55764A",
+          "marker": "diamond",
+          "line": "dot",
+          "fill": "open"
+        },
+        {
+          "role": "A_plus_B",
+          "hex": "#A64E64",
+          "marker": "square",
+          "line": "dash-dot",
+          "fill": "filled"
+        }
+      ],
+      "conditions": "需要协同因果判断的面板保留四组；只保留两组时必须说明为何单因素组不影响该论点。图例顺序固定基准/A/B/A+B。",
+      "grayscale": "四组不可只靠明度，必须保留点形/线型并可用分面。",
+      "color_vision": "绿/玫红可能有混淆风险，未模拟；冗余和分面必须使用。",
+      "numerical_preflight": {
+        "method": "sRGB relative luminance and white contrast only; not color-vision, print or final-size validation",
+        "colors": [
+          {
+            "hex": "#3B454F",
+            "relative_luminance": 0.0575,
+            "white_contrast_ratio": 9.77
+          },
+          {
+            "hex": "#246C8B",
+            "relative_luminance": 0.1296,
+            "white_contrast_ratio": 5.84
+          },
+          {
+            "hex": "#55764A",
+            "relative_luminance": 0.1538,
+            "white_contrast_ratio": 5.15
+          },
+          {
+            "hex": "#A64E64",
+            "relative_luminance": 0.1448,
+            "white_contrast_ratio": 5.39
+          }
+        ]
+      }
+    },
+    {
+      "id": "soc",
+      "label": "工作态/SOC离散节点",
+      "provenance": "original proposal; not sampled from any paper",
+      "purpose": "同一材料取态节点和多检测配对，色阶由浅至深仅表示有序SOC/Na含量",
+      "neutral": {
+        "background": "#FFFFFF",
+        "text": "#2F3438",
+        "axes": "#4B5258",
+        "auxiliary": "#8B939A",
+        "grid": "#E3E7EA",
+        "missing": "#B6BBC0"
+      },
+      "role_map": [
+        {
+          "role": "S0",
+          "hex": "#6E93AC",
+          "marker": "circle",
+          "line": "solid",
+          "state_label": "S0"
+        },
+        {
+          "role": "S1",
+          "hex": "#527D9A",
+          "marker": "triangle",
+          "line": "solid",
+          "state_label": "S1"
+        },
+        {
+          "role": "S2",
+          "hex": "#376581",
+          "marker": "square",
+          "line": "solid",
+          "state_label": "S2"
+        },
+        {
+          "role": "S3",
+          "hex": "#214D67",
+          "marker": "diamond",
+          "line": "solid",
+          "state_label": "S3"
+        },
+        {
+          "role": "S4",
+          "hex": "#12384F",
+          "marker": "pentagon",
+          "line": "solid",
+          "state_label": "S4"
+        }
+      ],
+      "conditions": "SOC节点为版式占位示例，不是实验条件；真实状态按实际Na计量/容量归一确认。C-S2/D-S2区分充放分支，充电实心/放电空心；同电压不等价相同SOC。两材料优先分面，不给每个材料再造另一套SOC色阶。",
+      "grayscale": "采用单调明度仍需state_id直标；相邻曲线重叠时偏移谱/分面而非仅靠渐变。",
+      "color_vision": "未模拟，数值标签与点形为必需冗余。",
+      "numerical_preflight": {
+        "method": "sRGB relative luminance and white contrast only; not color-vision, print or final-size validation",
+        "colors": [
+          {
+            "hex": "#6E93AC",
+            "relative_luminance": 0.2716,
+            "white_contrast_ratio": 3.26
+          },
+          {
+            "hex": "#527D9A",
+            "relative_luminance": 0.1879,
+            "white_contrast_ratio": 4.41
+          },
+          {
+            "hex": "#376581",
+            "relative_luminance": 0.117,
+            "white_contrast_ratio": 6.29
+          },
+          {
+            "hex": "#214D67",
+            "relative_luminance": 0.0661,
+            "white_contrast_ratio": 9.04
+          },
+          {
+            "hex": "#12384F",
+            "relative_luminance": 0.0352,
+            "white_contrast_ratio": 12.32
+          }
+        ],
+        "monotonic_luminance_decreasing": true
+      }
+    },
+    {
+      "id": "sequential",
+      "label": "非负连续量顺序色图",
+      "provenance": "original proposal; not sampled from any paper",
+      "purpose": "非负且无中心参考的强度、幅值、浓度等连续量；不能自动用于带符号差值",
+      "neutral": {
+        "background": "#FFFFFF",
+        "text": "#2F3438",
+        "axes": "#4B5258",
+        "auxiliary": "#8B939A",
+        "grid": "#E3E7EA",
+        "missing": "#B6BBC0"
+      },
+      "stops": [
+        {
+          "position": 0,
+          "hex": "#EAF3F8"
+        },
+        {
+          "position": 0.25,
+          "hex": "#ADCFE1"
+        },
+        {
+          "position": 0.5,
+          "hex": "#6FA6C3"
+        },
+        {
+          "position": 0.75,
+          "hex": "#377792"
+        },
+        {
+          "position": 1,
+          "hex": "#17485F"
+        }
+      ],
+      "mapping": {
+        "kind": "sequential",
+        "zero": "若有物理零值，明确标在色条下限；不能以白区默认缺失",
+        "range": "比较组使用同一vmin/vmax、单位、归一化；按需要提供共同对数映射并标明",
+        "missing": "#B6BBC0 + hatch or explicit NA",
+        "clip": "用extend或显式端点标识截断"
+      },
+      "conditions": "这些色阶是原创建议，不保证感知均匀；最终依据真实数据测试。热图白或浅色仍是有数据区，缺测必须另标。",
+      "grayscale": "可依据单调相对亮度保序；关键阈值增加等值线/数字，不由颜色代替测量不确定度。",
+      "color_vision": "未模拟；不能保证弱差异可分。",
+      "numerical_preflight": {
+        "method": "sRGB relative luminance and white contrast only; not color-vision, print or final-size validation",
+        "colors": [
+          {
+            "hex": "#EAF3F8",
+            "relative_luminance": 0.8837,
+            "white_contrast_ratio": 1.12
+          },
+          {
+            "hex": "#ADCFE1",
+            "relative_luminance": 0.5895,
+            "white_contrast_ratio": 1.64
+          },
+          {
+            "hex": "#6FA6C3",
+            "relative_luminance": 0.3459,
+            "white_contrast_ratio": 2.65
+          },
+          {
+            "hex": "#377792",
+            "relative_luminance": 0.1608,
+            "white_contrast_ratio": 4.98
+          },
+          {
+            "hex": "#17485F",
+            "relative_luminance": 0.0564,
+            "white_contrast_ratio": 9.87
+          }
+        ],
+        "monotonic_luminance_decreasing": true
+      }
+    },
+    {
+      "id": "diverging",
+      "label": "带物理零点的发散映射",
+      "provenance": "original proposal; not sampled from any paper",
+      "purpose": "相对明确基准的有符号差值/电荷差分/能量偏离；不用于ELF或无中心非负强度",
+      "neutral": {
+        "background": "#FFFFFF",
+        "text": "#2F3438",
+        "axes": "#4B5258",
+        "auxiliary": "#8B939A",
+        "grid": "#E3E7EA",
+        "missing": "#B6BBC0"
+      },
+      "stops": [
+        {
+          "position": -1,
+          "hex": "#32677D"
+        },
+        {
+          "position": -0.5,
+          "hex": "#97C0CD"
+        },
+        {
+          "position": 0,
+          "hex": "#F7F7F5"
+        },
+        {
+          "position": 0.5,
+          "hex": "#DCA66B"
+        },
+        {
+          "position": 1,
+          "hex": "#A55725"
+        }
+      ],
+      "mapping": {
+        "kind": "diverging",
+        "center": 0,
+        "negative_label": "negative relative to explicitly named reference",
+        "positive_label": "positive relative to explicitly named reference",
+        "range": "中心固定零；是否使用对称绝对范围由科学比较目的决定，必须记录。各样品不可独立自动拉伸",
+        "missing": "#B6BBC0 + hatch or explicit NA",
+        "clip": "溢出色条明确标截断，不把饱和端色当数值排名"
+      },
+      "conditions": "差分符号/单位/参考态/等值面值必须出现；暖色不是默认改善，冷色不是默认损失。",
+      "grayscale": "正负两端可在灰度中近似，必须增加±标注、零等值线和带符号刻度；仅灰度色深不足以区分符号。",
+      "color_vision": "未模拟，不能称无障碍认证。",
+      "numerical_preflight": {
+        "method": "sRGB relative luminance and white contrast only; not color-vision, print or final-size validation",
+        "colors": [
+          {
+            "hex": "#32677D",
+            "relative_luminance": 0.1186,
+            "white_contrast_ratio": 6.23
+          },
+          {
+            "hex": "#97C0CD",
+            "relative_luminance": 0.4869,
+            "white_contrast_ratio": 1.96
+          },
+          {
+            "hex": "#F7F7F5",
+            "relative_luminance": 0.9289,
+            "white_contrast_ratio": 1.07
+          },
+          {
+            "hex": "#DCA66B",
+            "relative_luminance": 0.4355,
+            "white_contrast_ratio": 2.16
+          },
+          {
+            "hex": "#A55725",
+            "relative_luminance": 0.1495,
+            "white_contrast_ratio": 5.26
+          }
+        ]
+      }
+    }
+  ],
+  "provenance": "47 historical visual-note entries; original proposed palettes are not paper source colors; no new paper images read. No Matter/Joule palette evidence."
+}
